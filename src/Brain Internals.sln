@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain.Interfaces", "Brain.Interfaces\Brain.Interfaces.csproj", "{C641A168-5FFC-4C91-BEB4-23A9A35048C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brain.Implementations", "Brain.Implementations\Brain.Implementations.csproj", "{E7024EF5-6150-47BC-99B9-3A3D6924F043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C641A168-5FFC-4C91-BEB4-23A9A35048C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C641A168-5FFC-4C91-BEB4-23A9A35048C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C641A168-5FFC-4C91-BEB4-23A9A35048C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C641A168-5FFC-4C91-BEB4-23A9A35048C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7024EF5-6150-47BC-99B9-3A3D6924F043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7024EF5-6150-47BC-99B9-3A3D6924F043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7024EF5-6150-47BC-99B9-3A3D6924F043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7024EF5-6150-47BC-99B9-3A3D6924F043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4581F21-A358-4F85-AACB-1587D99FAB0C}
+	EndGlobalSection
+EndGlobal
