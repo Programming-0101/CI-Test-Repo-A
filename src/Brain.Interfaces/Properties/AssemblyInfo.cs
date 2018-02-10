@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Brain.Interfaces")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyDescription("Simple Brain interfaces. A silly little library for playing with CI and CD.")]
+[assembly: AssemblyConfiguration("Release")]
+[assembly: AssemblyCompany("Dynamic Generation Inc.")]
 [assembly: AssemblyProduct("Brain.Interfaces")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
